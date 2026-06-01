@@ -1,9 +1,9 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "RF"
-title: "Prof"
-institution: "CIT"
+name: "Richard Feynman"
+title: "Professor of Physics"
+institution: "California Institute of Technology"
 email: richard@university.edu
 photo: headshot.jpg  # place your photo in images/
 
