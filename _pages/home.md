@@ -17,7 +17,6 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Reliability-Based Optimization</a>
 </div>
 
-Theoretical physics...
 
 <!-- <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
