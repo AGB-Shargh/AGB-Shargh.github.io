@@ -11,7 +11,7 @@ permalink: /about/
 <div class="pi-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
 <div>
-<h3 class="pi-name">{{ site.name }}</h3>
+<h3 class="pi-name">{{ site.full_name }}</h3>
 <p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
 <div class="pi-links">
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
