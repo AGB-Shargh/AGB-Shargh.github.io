@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-<h2 class="home-hero">{{ site.name }}</h2>
+<h2 class="home-hero">{{ site.full_name }}</h2>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
