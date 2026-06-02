@@ -1,19 +1,19 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
+name: "Amir Shargh"
+title: "PhD Researcher"
+institution: "PSU"
+email: ""  # add your preferred contact email
 photo: headshot.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: ""
+  github: "https://github.com/AGB-Shargh"
+  researchgate: ""
   orcid: ""
   twitter: ""
   linkedin: ""
@@ -22,9 +22,9 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
-dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+accent_color: "#1a4d8f"
+dark_mode: true
+description: "Academic webpage of Amir Shargh. Research interests include structural engineering, earthquake engineering, reliability analysis, optimization, and machine learning."
 baseurl: ""
 url: ""
 
@@ -38,12 +38,9 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
   - name: research
   - name: software
-  - name: team
   - name: teaching
-  - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
@@ -74,7 +71,6 @@ kramdown:
   parse_block_html: true
 
 plugins: ["jekyll-sitemap"]
-
 
 exclude:
   - Gemfile
