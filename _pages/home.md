@@ -9,17 +9,15 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Performance-Based Earthquake Engineering</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Generative Models for Structural Design</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Intensity Measure Selection</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Active Learning & UQ</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">PT-CLT Rocking Wall Systems</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Reliability-Based Optimization</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
+Theoretical physics...
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
@@ -33,7 +31,6 @@ Research in theoretical physics helps us to make predictions about how the unive
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am a PhD researcher at Penn State working at the intersection of earthquake engineering, machine learning, and uncertainty quantification. My work focuses on developing probabilistic and information-driven methods for seismic performance assessment and structural design within the PBEE framework.
+
+I am particularly interested in how generative models and active learning can improve efficiency and robustness in structural engineering workflows. My main application is post-tensioned cross-laminated timber (PT-CLT) rocking wall systems modeled in OpenSeesPy.
