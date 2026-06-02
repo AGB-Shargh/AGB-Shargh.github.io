@@ -23,7 +23,8 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a4d8f"
+# accent_color: "#1a4d8f"
+accent_color: "#b5451b"
 dark_mode: true
 description: "Academic webpage of Amir Ghasem Boshrouei Shargh. Research interests include structural and earthquake engineering, structural reliability, performance-based engineering, optimization, machine learning, and uncertainty quantification."
 baseurl: ""
