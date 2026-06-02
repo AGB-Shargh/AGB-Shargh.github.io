@@ -1,7 +1,10 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Amir Ghasem Boshrouei Shargh"
+
+name: "Amir G. B. Shargh"
+full_name: "Amir Ghasem Boshrouei Shargh"
+
 title: "PhD Candidate in Structural Engineering"
 institution: "The Pennsylvania State University"
 email: "boshrouei@psu.edu"
