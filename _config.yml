@@ -17,14 +17,14 @@ links:
   researchgate: ""
   orcid: ""
   twitter: ""
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/boshrouei/"
   cv: "/CV_Shargh.pdf"
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-# accent_color: "#1a4d8f"
-accent_color: "#b5451b"
+accent_color: "#1a4d8f"
+# accent_color: "#b5451b"
 dark_mode: true
 description: "Academic webpage of Amir Ghasem Boshrouei Shargh. Research interests include structural and earthquake engineering, structural reliability, performance-based engineering, optimization, machine learning, and uncertainty quantification."
 baseurl: ""
@@ -40,8 +40,10 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: research
+  - name: courses
   - name: software
+
+
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)

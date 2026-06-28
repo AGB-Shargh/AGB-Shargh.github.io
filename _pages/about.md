@@ -20,6 +20,7 @@ permalink: /about/
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{% endif %}
 </div>
+
 {% if site.data.pi[0].education %}
 <ul style="margin-top: var(--space-4);">
 {% for education in site.data.pi[0].education %}
@@ -35,31 +36,8 @@ permalink: /about/
 <div class="section-card">
 <h3>Grants</h3>
 <ul>
-{% for grant in site.data.grants %}
-<li>{{ grant.name }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
-{% if site.data.awards %}
-<div class="section-card">
-<h3>Awards</h3>
-<ul>
-{% for award in site.data.awards %}
-<li>{{ award.name | replace: "-","&#8211;" }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
-{% if site.data.people %}
-<div class="section-card">
-<h3>Students and Mentoring</h3>
-<ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
+<li>NSF NHERI Converging Design</li>
+<li>Mid-Scale Seed Grant</li>
 </ul>
 </div>
 {% endif %}

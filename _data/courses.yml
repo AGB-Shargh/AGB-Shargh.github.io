@@ -1,0 +1,84 @@
+- name: "Deep Learning Specialization"
+  location: "DeepLearning.AI"
+  degree: "Specialization (5 Courses)"
+  year: "Completed"
+
+- name: "Reinforcement Learning Specialization"
+  location: "University of Alberta"
+  degree: "Specialization (4 Courses)"
+  year: "Completed"
+
+- name: "Mathematics for Machine Learning Specialization"
+  location: "Imperial College London"
+  degree: "Specialization (3 Courses)"
+  year: "Completed"
+
+- name: "Machine Learning"
+  location: "Stanford University"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Interpretable Machine Learning"
+  location: "Duke University"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Developing Explainable AI (XAI)"
+  location: "Duke University"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Bayesian Statistics: From Concept to Data Analysis"
+  location: "University of California, Santa Cruz"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Matrix Algebra for Engineers"
+  location: "The Hong Kong University of Science and Technology (HKUST)"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Programming for Everybody (Getting Started with Python)"
+  location: "University of Michigan"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Python Data Structures"
+  location: "University of Michigan"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Python Classes and Inheritance"
+  location: "University of Michigan"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Python for Data Science, AI & Development"
+  location: "IBM"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Data Science Methodology"
+  location: "IBM"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Philosophy of Science"
+  location: "University of Pennsylvania"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences"
+  location: "The University of Edinburgh"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+  location: "DeepLearning.AI"
+  degree: "Online Course"
+  year: "Completed"
+
+- name: "AI For Everyone"
+  location: "DeepLearning.AI"
+  degree: "Online Course"
+  year: "Completed"

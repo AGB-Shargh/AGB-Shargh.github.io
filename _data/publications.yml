@@ -1,0 +1,56 @@
+- title: "Evaluation of the Methods Estimating Structural Strength Reduction Factor under Far Field Records"
+  authors: "R. Barati, <strong>G. B. Shargh</strong>, A. Karamodin"
+  journal: "\t8th International Conference on Seismology & Earthquake Engineering"
+  year: 2019
+  type: conference
+  url: "https://www.iiees.ac.ir/see8/SEE8-SM08150811.pdf"
+
+- title: "Estimation of Inelastic Seismic Input Energy"
+  authors: "<strong>G. B. Shargh</strong>, R. Barati"
+  journal: "\tSoil Dynamics and Earthquake Engineering"
+  note: "142, 106505"
+  year: 2021
+  type: journal
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0267726120311313"
+
+- title: "Probabilistic Assessment of Ground Motion Rotation Impact on Seismic Performance of Structures"
+  authors: "<strong>G. B. Shargh</strong>, R. Barati"
+  journal: "\tEngineering Structures"
+  note: "292, 116383"
+  year: 2023
+  type: journal
+  url: "https://www.sciencedirect.com/science/article/pii/S0141029623007988"
+
+- title: "Angular Efficiency of Intensity Measures"
+  authors: "<strong>G. B. Shargh</strong>, R. Barati, N. Brown"
+  journal: "\t18th World Conference on Earthquake Engineering"
+  year: 2024
+  type: conference
+  url: "https://www.researchgate.net/profile/Reza-Barati-3/publication/382974727_Angular_efficiency_of_intensity_measures/links/66b5d91a8f7e1236bc45d0bb/Angular-efficiency-of-intensity-measures.pdf"
+
+- title: "Multi-objective Optimization of Cross-Laminated Timber Shear Walls"
+  authors: "<strong>G. B. Shargh</strong>, A. Barbosa, B. Simpson, A. Sinha, J. W. van de Lindt, N. Brown"
+  journal: "\t18th World Conference on Earthquake Engineering"
+  year: 2024
+  type: conference
+  url: "https://par.nsf.gov/servlets/purl/10632050"
+
+- title: "Seismic Intensity Measure Selection Considering Record-to-Record and Angle-to-Angle Uncertainties"
+  authors: "R. Barati, <strong>G. B. Shargh</strong>"
+  journal: "\t9th International Conference on Seismology and Earthquake Engineering"
+  year: 2024
+  type: conference
+  url: ""
+
+- title: "Generative Modeling for Inverse Engineering Design"
+  authors: "<strong>G. B. Shargh</strong>, K. G. Papakonstantinou, N. Brown"
+  journal: "Under preparation"
+  year: 2026
+
+- title: "Reliability-Based Design Optimization of Mass Timber Self-Centering Rocking Walls"
+  authors: "<strong>G. B. Shargh</strong>, K. G. Papakonstantinou, J. W. van de Lindt, A. R. Barbosa, N. Brown"
+  journal: "Journal of Structural Engineering"
+  note: "152(8), 04026099"
+  year: 2026
+  type: journal
+  url: "https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-15751"
