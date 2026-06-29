@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "Profile"
 layout: gridlay
 sitemap: false
-permalink: /about/
+permalink: /profile/
 ---
 
-## About
+## Profile
 
 <div class="section-card">
 <div class="pi-card">
