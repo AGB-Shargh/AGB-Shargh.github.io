@@ -47,6 +47,7 @@
   journal: "Under preparation"
   year: 2026
 
+
 - title: "Reliability-Based Design Optimization of Mass Timber Self-Centering Rocking Walls"
   authors: "<strong>G. B. Shargh</strong>, K. G. Papakonstantinou, J. W. van de Lindt, A. R. Barbosa, N. Brown"
   journal: "Journal of Structural Engineering"
@@ -54,3 +55,18 @@
   year: 2026
   type: journal
   url: "https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-15751"
+
+- title: "A Parametric Computational Framework for Modeling and Seismic Design of Post-Tensioned Mass Timber Rocking Walls"
+  authors: "<strong>G. B. Shargh</strong>, A. R. Barbosa, J. W. van de Lindt, N. Brown"
+  journal: "Under review"
+  year: 2026
+  type: manuscript
+  url: ""
+
+- title: "Physics-Aware Bayesian Optimization for Reliable PT-CLT Rocking Walls: Impact of Feature Representations"
+  authors: "<strong>G. B. Shargh</strong>, N. Brown"
+  journal: "13th U.S. National Conference on Earthquake Engineering (13NCEE), Earthquake Engineering Research Institute (EERI)"
+  note: "Accepted for oral presentation"
+  year: 2026
+  type: conference
+  url: ""

@@ -50,3 +50,11 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 // Utilities
 @import "utilities/dark-mode";
 @import "utilities/animations";
+
+
+// Custom styles
+.justify-text {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
