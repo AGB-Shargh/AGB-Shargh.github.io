@@ -9,15 +9,13 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Uncertainty Quantification & Probabilistic Modeling</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Active Learning & Experimental Design</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Performance-Based Earthquake Engineering</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Reliability & Risk Analysis</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Generative Modeling for Engineering</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Seismic Performance Assessment</a>
+  <span class="chip">Uncertainty Quantification &amp; Probabilistic Modeling</span>
+  <span class="chip">Active Learning &amp; Experimental Design</span>
+  <span class="chip">Performance-Based Earthquake Engineering</span>
+  <span class="chip">Reliability &amp; Risk Analysis</span>
+  <span class="chip">Generative Modeling for Engineering</span>
+  <span class="chip">Seismic Performance Assessment</span>
 </div>
-
-
 
 <!-- <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
