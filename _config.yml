@@ -8,6 +8,7 @@ institution: "The Pennsylvania State University"
 email: "boshrouei@psu.edu"
 photo: headshot.jpg  # place your photo in images/
 
+
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
@@ -20,22 +21,29 @@ links:
   linkedin: "https://www.linkedin.com/in/boshrouei/"
   cv: "/CV_Shargh.pdf"
 
+
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#1a4d8f"
 # accent_color: "#b5451b"
+
 dark_mode: true
+
 description: "Academic webpage of Amir Ghasem Boshrouei Shargh. Research interests include structural and earthquake engineering, structural reliability, performance-based engineering, optimization, machine learning, and uncertainty quantification."
+
+# Important for Google indexing and sitemap generation
+url: "https://agb-shargh.github.io"
 baseurl: ""
-url: ""
+
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
   google_id: ""
 
+
 # ============================================================
-# STEP 4: Choose Your Pages (comment out any you don't need)
+# STEP 4: Choose Your Pages
 # ============================================================
 nav_pages:
   - name: profile
@@ -46,21 +54,28 @@ nav_pages:
 
 
 # ============================================================
-# Advanced Settings (you probably don't need to change these)
+# Advanced Settings
 # ============================================================
+
+# Keep important files during Jekyll build
 include:
   - .htaccess
   - _pages
+  - google351a1a836537033f.html
+
 
 sass:
   quiet_deps: true
   style: compressed
 
+
 markdown: kramdown
 highlighter: rouge
+
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 kramdown:
   input: GFM
@@ -73,7 +88,10 @@ kramdown:
   enable_coderay: false
   parse_block_html: true
 
-plugins: ["jekyll-sitemap"]
+
+plugins:
+  - jekyll-sitemap
+
 
 exclude:
   - Gemfile
