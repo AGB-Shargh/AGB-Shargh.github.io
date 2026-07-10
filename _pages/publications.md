@@ -11,13 +11,14 @@ permalink: /publications/
 
 <div class="section-card" id="pubList">
 
-<h3>All Publications</h3>
-
-<ul>
-
 {% assign pubs_sorted = site.data.publications | sort: "year" | reverse %}
 
+
+<h3>Journal Publications</h3>
+
+<ul>
 {% for pub in pubs_sorted %}
+{% if pub.type == "journal" %}
 <li>
 
 <strong>
@@ -26,10 +27,40 @@ permalink: /publications/
 
 {{ pub.authors }} ({{ pub.year }})<br>
 <em>{{ pub.journal }}</em>
+{% if pub.note %}
+<br>{{ pub.note }}
+{% endif %}
 
 </li>
+{% endif %}
 {% endfor %}
-
 </ul>
+
+
+<h3>Conference Publications</h3>
+
+<ul>
+{% for pub in pubs_sorted %}
+{% if pub.type == "conference" %}
+<li>
+
+<strong>
+<a href="{{ pub.url }}" target="_blank" class="pub-title">{{ pub.title }}</a>
+</strong><br>
+
+{{ pub.authors }} ({{ pub.year }})<br>
+<em>{{ pub.journal }}</em>
+{% if pub.note %}
+<br>{{ pub.note }}
+{% endif %}
+
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+
+
+
 
 </div>

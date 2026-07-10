@@ -8,7 +8,7 @@
 - title: "Estimation of Inelastic Seismic Input Energy"
   authors: "<strong>G. B. Shargh</strong>, R. Barati"
   journal: "\tSoil Dynamics and Earthquake Engineering"
-  note: "142, 106505"
+  note: "DOI: 10.1016/j.soildyn.2020.106505"
   year: 2021
   type: journal
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0267726120311313"
@@ -16,7 +16,7 @@
 - title: "Probabilistic Assessment of Ground Motion Rotation Impact on Seismic Performance of Structures"
   authors: "<strong>G. B. Shargh</strong>, R. Barati"
   journal: "\tEngineering Structures"
-  note: "292, 116383"
+  note: "DOI: 10.1016/j.engstruct.2023.116383"
   year: 2023
   type: journal
   url: "https://www.sciencedirect.com/science/article/pii/S0141029623007988"
@@ -46,12 +46,13 @@
   authors: "<strong>G. B. Shargh</strong>, K. G. Papakonstantinou, N. Brown"
   journal: "Under preparation"
   year: 2026
+  type: journal
 
 
 - title: "Reliability-Based Design Optimization of Mass Timber Self-Centering Rocking Walls"
   authors: "<strong>G. B. Shargh</strong>, K. G. Papakonstantinou, J. W. van de Lindt, A. R. Barbosa, N. Brown"
   journal: "Journal of Structural Engineering"
-  note: "152(8), 04026099"
+  note: "DOI: 10.1061/JSENDH.STENG-15751"
   year: 2026
   type: journal
   url: "https://ascelibrary.org/doi/full/10.1061/JSENDH.STENG-15751"
@@ -60,7 +61,7 @@
   authors: "<strong>G. B. Shargh</strong>, A. R. Barbosa, J. W. van de Lindt, N. Brown"
   journal: "Under review"
   year: 2026
-  type: manuscript
+  type: journal
   url: ""
 
 - title: "Physics-Aware Bayesian Optimization for Reliable PT-CLT Rocking Walls: Impact of Feature Representations"
