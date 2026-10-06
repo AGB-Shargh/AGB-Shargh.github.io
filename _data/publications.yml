@@ -60,9 +60,10 @@
 - title: "A Parametric Computational Framework for Modeling and Seismic Design of Post-Tensioned Mass Timber Rocking Walls"
   authors: "<strong>G. B. Shargh</strong>, A. R. Barbosa, J. W. van de Lindt, N. Brown"
   journal: "Under review"
+  note: "DOI: 10.1002/eqe.70302"
   year: 2026
   type: journal
-  url: ""
+  url: "https://onlinelibrary.wiley.com/doi/10.1002/eqe.70302"
 
 - title: "Physics-Aware Bayesian Optimization for Reliable PT-CLT Rocking Walls: Impact of Feature Representations"
   authors: "<strong>G. B. Shargh</strong>, N. Brown"
