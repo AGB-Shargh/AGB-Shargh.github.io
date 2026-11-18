@@ -31,8 +31,8 @@ permalink: /
 
 <div class="justify-text" markdown="1">
 
-I am a PhD candidate in Structural Engineering at The Pennsylvania State University. My research sits at the intersection of earthquake engineering, machine learning, and uncertainty quantification, where I develop probabilistic methods for structural analysis, reliability, and performance-based earthquake engineering.
+I am a PhD candidate in Structural Engineering at The Pennsylvania State University. My research focuses on earthquake engineering, using probabilistic methods, machine learning, and uncertainty quantification to study structural behavior and reliability under seismic loading.
 
-More broadly, I am interested in bringing modern machine learning and statistical methods into structural engineering to make design and risk assessment more efficient, reliable, and data-driven. My recent work explores active learning, generative modeling, and uncertainty-aware algorithms for engineering design. I primarily develop open-source computational tools in Python and OpenSeesPy, with current applications to resilient structural systems such as post-tensioned cross-laminated timber (PT-CLT) rocking walls.
+I am particularly interested in developing computational methods that make structural design and risk assessment more efficient and reliable. My recent work explores active learning and generative modeling to navigate complex engineering design spaces and reduce the computational effort required for engineering analyses. I recently completed an NSF-funded project on resilient structural systems, focusing on post-tensioned cross-laminated timber (PT-CLT) rocking walls. As part of this project, I developed open-source tools in Python and OpenSeesPy for structural modeling, nonlinear analysis, and performance assessment.
 
 </div>
