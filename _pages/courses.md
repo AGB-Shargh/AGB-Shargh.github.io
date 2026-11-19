@@ -74,6 +74,18 @@ permalink: /courses/
 
 <tr>
   <td>
+    <a href="https://www.coursera.org/account/accomplishments/verify/LEOQV59DCHVO"
+       target="_blank"
+       rel="noopener"
+       title="View Certificate">
+      Decision Making and Reinforcement Learning
+    </a>
+  </td>
+  <td>Columbia University</td>
+</tr>
+
+<tr>
+  <td>
     <a href="https://www.coursera.org/account/accomplishments/specialization/2DCK3HSTDZYA"
        target="_blank"
        rel="noopener"
